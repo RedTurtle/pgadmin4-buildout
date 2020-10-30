@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-zc-buildout = "==2.12.2"
+"zc.buildout" = "==2.13.2"
 
 [requires]
 python_version = "3.7"
